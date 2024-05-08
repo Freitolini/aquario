@@ -1,0 +1,6 @@
+SSID = "FreiTech"
+WIFI_PASSWORD = "Freitasqwerty" 
+
+SERVER = "192.168.1.11"  #this is your MQTT Broker Address
+USER = "tfreitas" #change this to your MQTT username, else leave None
+PASSWORD = "tfreitas86" #change this to your MQTT password, else leave None
